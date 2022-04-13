@@ -1,0 +1,15 @@
+E:\Rep\Gardebook_U\src\bin\Debug\net6.0\Gradebook.exe
+E:\Rep\Gardebook_U\src\bin\Debug\net6.0\Gradebook.deps.json
+E:\Rep\Gardebook_U\src\bin\Debug\net6.0\Gradebook.runtimeconfig.json
+E:\Rep\Gardebook_U\src\bin\Debug\net6.0\Gradebook.dll
+E:\Rep\Gardebook_U\src\bin\Debug\net6.0\ref\Gradebook.dll
+E:\Rep\Gardebook_U\src\bin\Debug\net6.0\Gradebook.pdb
+E:\Rep\Gardebook_U\src\obj\Debug\net6.0\Gradebook.csproj.AssemblyReference.cache
+E:\Rep\Gardebook_U\src\obj\Debug\net6.0\Gradebook.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rep\Gardebook_U\src\obj\Debug\net6.0\Gradebook.AssemblyInfoInputs.cache
+E:\Rep\Gardebook_U\src\obj\Debug\net6.0\Gradebook.AssemblyInfo.cs
+E:\Rep\Gardebook_U\src\obj\Debug\net6.0\Gradebook.csproj.CoreCompileInputs.cache
+E:\Rep\Gardebook_U\src\obj\Debug\net6.0\Gradebook.dll
+E:\Rep\Gardebook_U\src\obj\Debug\net6.0\ref\Gradebook.dll
+E:\Rep\Gardebook_U\src\obj\Debug\net6.0\Gradebook.pdb
+E:\Rep\Gardebook_U\src\obj\Debug\net6.0\Gradebook.genruntimeconfig.cache
